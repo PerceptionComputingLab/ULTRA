@@ -34,7 +34,7 @@ uncertainties of TC labels. We evaluated the ULTRA on the public BreastPathQ dat
 
 ```bash
 git clone git@github.com:PerceptionComputingLab/ULTRA.git
-cd ULTRA
+cd ULTRA/src
 ```
 
 
@@ -62,7 +62,7 @@ Data Folder-----
 
 ### Training :
 
-（1）Train the backbone network to get the pretrained model.
+ (1) Train the backbone network to get the pretrained model.
 
 ```bash
 python train_backbone.py --data_path "Directory contains training and validation data " 

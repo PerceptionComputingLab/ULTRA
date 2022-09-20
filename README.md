@@ -89,10 +89,12 @@ Our code is inspired from <a href="https://github.com/nzl-thu/MUSDL">MUSDL</a>, 
 # Citation:
 
 ```bash 
-@article{li2022ultra,
-  title={ULTRA: Uncertainty-aware Label Distribution Learning for Breast Tumor Cellularity Assessment},
+@inproceedings{li2022ultra,
+  title={ULTRA: Uncertainty-Aware Label Distribution Learning for Breast Tumor Cellularity Assessment},
   author={Li, Xiangyu and Liang, Xinjie and Luo, Gongning and Wang, Wei and Wang, Kuanquan and Li, Shuo},
-  journal={arXiv preprint arXiv:2206.06623},
-  year={2022}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={303--312},
+  year={2022},
+  organization={Springer}
 }
 ```

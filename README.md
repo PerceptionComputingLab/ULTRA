@@ -1,7 +1,7 @@
 # ULTRA-pytorch
 
 
-Official Pytorch Code for our MICCAI 2022 paper ["ULTRA：Uncertainty-aware Label Distribution Learning for Breast Tumor Cellularity Assessment"](https://arxiv.org/abs/2206.06623) ,  and  its journal extensions on MedIA 2023 ["Ambiguity-aware breast tumor cellularity estimation via self-ensemble label distribution learning](https://www.sciencedirect.com/science/article/pii/S1361841523002049)"(https://www.sciencedirect.com/science/article/abs/pii/S1361841523002049).
+Official Pytorch Code for our MICCAI 2022 paper ["ULTRA：Uncertainty-aware Label Distribution Learning for Breast Tumor Cellularity Assessment"](https://arxiv.org/abs/2206.06623) ,  and  its journal extensions on MedIA 2023 ["Ambiguity-aware breast tumor cellularity estimation via self-ensemble label distribution learning](https://www.sciencedirect.com/science/article/pii/S1361841523002049)".
 
 
 

@@ -1,7 +1,8 @@
 # ULTRA-pytorch
 
+Official Pytorch Code for the paper ["ULTRA：Uncertainty-aware Label Distribution Learning for Breast Tumor Cellularity Assessment"](https://arxiv.org/abs/2206.06623) ,  presented  at MICCAI 2022 and its 
 
-Official Pytorch Code for our MICCAI 2022 paper ["ULTRA：Uncertainty-aware Label Distribution Learning for Breast Tumor Cellularity Assessment"](https://arxiv.org/abs/2206.06623) ,  and  its journal extensions on MedIA 2023 ["Ambiguity-aware breast tumor cellularity estimation via self-ensemble label distribution learning](https://www.sciencedirect.com/science/article/pii/S1361841523002049)".
+Journal extension on:  ["Ambiguity-aware breast tumor cellularity estimation via self-ensemble label distribution learning](https://www.sciencedirect.com/science/article/pii/S1361841523002049)",  Medical Image Analysis (MedIA).
 
 
 
@@ -97,6 +98,8 @@ Our code is inspired from <a href="https://github.com/nzl-thu/MUSDL">MUSDL</a>, 
   year={2022},
   organization={Springer}
 }
+```
+```bash 
 @article{li2023ambiguity,
   title={Ambiguity-aware breast tumor cellularity estimation via self-ensemble label distribution learning},
   author={Li, Xiangyu and Liang, Xinjie and Luo, Gongning and Wang, Wei and Wang, Kuanquan and Li, Shuo},
@@ -105,5 +108,4 @@ Our code is inspired from <a href="https://github.com/nzl-thu/MUSDL">MUSDL</a>, 
   year={2023},
   publisher={Elsevier}
 }
-
 ```

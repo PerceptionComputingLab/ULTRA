@@ -85,7 +85,7 @@ python test.py --checkpoint_path " enter the checkpoint path" --test_path "test 
 
 ### Acknowledgement:
 
-Our code is inspired from <a href="https://github.com/nzl-thu/MUSDL">MUSDL</a>, <a href="https://github.com/srinidhiPY/SSL_CR_Histo">SSL_CR_Histo</a>, <a href="https://github.com/JohnleeHIT/SLEX-Net">SLEXNet</a>.
+Our code is inspired from <a href="https://github.com/nzl-thu/MUSDL">MUSDL</a>, <a href="https://github.com/srinidhiPY/SSL_CR_Histo">SSL_CR_Histo</a>, <a href="https://github.com/JohnleeHIT/SLEX-Net">SLEXNet</a>
 
 # Citation:
 

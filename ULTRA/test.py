@@ -1,5 +1,5 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 os.environ["MKL_NUM_THREADS"] = '4'
 os.environ["NUMEXPR_NUM_THREADS"] = '4'
 os.environ["OMP_NUM_THREADS"] = '4'

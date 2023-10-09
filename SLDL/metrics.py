@@ -10,7 +10,7 @@ def icc(predicitions, targets):
     '''
     Calculate the intra-class correlation coefficient (ICC) metric between the predicted resuls and the targets.
     Predictions: list of the predicted Tumor Cellularities of the dataset
-    targets:  list of the label Tumor Cellularities of the dataset
+    targets:  list of the label Tumor Cellularities of the dataset.
     '''
     d = {'targets': np.hstack([np.arange(1, len(predicitions) + 1, 1), np.arange(1, len(predicitions) + 1, 1)]),
                             'raters': np.hstack([np.tile(np.array(['M']), len(predicitions)),
